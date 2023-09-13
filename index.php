@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" type="image/png" href="assets/server-logo.png">
-      <meta name="og:title" content="PrideMC Network">
+      <meta name="og:title" content="PrideMC Network"> 
       
 		<title>Home ─ PrideMC Network</title>
         <style>
