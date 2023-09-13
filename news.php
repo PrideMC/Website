@@ -17,7 +17,7 @@
 			.modern-ui {
 				background-color: #222222;
 				color: #fff;
-				height: 15080px;
+				height: 15580px;
 				width: 740px;
 				text-align: left;
 				padding: 30px;
@@ -108,7 +108,26 @@
 				<a href="index.php" class="link">Home</a> <span class="linkh">News</span> <a href="u.php?rdr=https://discord.gg/kpAdXNCmRR" class="link">Discord</a> <a href="https://minetrack.mcpridebedrock.tk" class="link">Minetrack</a>
 			</div><br>
 			<div class="modern-ui" id="whats-new">
+<<<<<<< HEAD
 				<center><h1 class="label">News</p></center><br>
+=======
+				<center><h1 class="label">News</p></center><br>
+          <h1 class="title" id="session-v5">Season v5 <span class="mini">(January 31, 2023)</span></h1>
+				<p style="font-size: 20px;">
+				     <i>Session v5 has arrive!</i> 
+				     <br><br>
+				     Grab your exclusive rank to recieve our sessional costume and capes!
+             <i>Minecraft Java soon?</i>
+				     <br>
+				     <b>Chill and relax with your friends! Enjoy your trip!</b>
+				</p>
+				<img class="image" height="140px" width="730px" src="assets/New-Update.png"><br><br>
+				<img class="image" height="340px" width="730px" src="assets/Session-v5-pt1.png"><br><br>
+				<img class="image" height="340px" width="730px" src="assets/Session-v5-pt2.png"><br><br>
+				<img class="image" height="340px" width="730px" src="assets/Session-v5-pt3.png"><br><br>
+          <img class="image" height="340px" width="730px" src="assets/Session-v5-pt4.png"><br><br>
+				<hr><br>
+>>>>>>> ab1d9ff (Initial commit)
 				<h1 class="title" id="session-v4">Season v4 <span class="mini">(September 9, 2022)</span></h1>
 				<p style="font-size: 20px;">
 				     <i>Session v4 has arrive!</i> 

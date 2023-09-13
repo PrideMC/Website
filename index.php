@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="icon" type="image/png" href="assets/server-logo.png">
+		  <link rel="icon" type="image/png" href="assets/server-logo.png">
+      <meta name="og:title" content="PrideMC Network">
 		<title>Home ─ PrideMC Network</title>
         <style>
             html {
@@ -101,6 +102,7 @@
 				text-decoration: underline;
 			}
 			.join-button {
+<<<<<<< HEAD
 				border-style: solid;
 				border-color: rgb(255, 0, 0);
 				border-padding: 10px;
@@ -116,6 +118,37 @@
 				border-color: rgb(255, 51, 56);
 				cursor: pointer;
 			}
+=======
+				border: 2px solid #000;
+				border-color: #999;
+				border-padding: 10px;
+				padding: 30px;
+				font-size: 30px;
+				transition-duration: 0.2s;
+        color: #DDD;
+		text-shadow: 2px 2px #000A;
+		box-shadow: inset -2px -4px #0006, inset 2px 2px #FFF7;
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        text-decoration: none;
+        background: #999 url('https://i.ibb.co/rb2TWXL/bgbtn.png') center / cover;
+        image-rendering: pixelated;
+		color: #DDD;
+		text-shadow: 2px 2px #000A;
+		box-shadow: inset -2px -4px #0006, inset 2px 2px #FFF7;
+        
+			}
+			.join-button:hover {
+				background-color: rgba(100, 100, 255, .45);
+		text-shadow: 2px 2px #202013CC;
+		color: #FFFFA0;
+        cursor: pointer;
+			}
+          .join-button:active {
+            box-shadow: inset -2px -4px #0004, inset 2px 2px #FFF5;
+          }
+>>>>>>> ab1d9ff (Initial commit)
 			.linkh {
 				color: #fff;
 				text-decoration: none;
@@ -139,8 +172,13 @@
 			<div class="modern-ui" id="click-to-join">
 			<center><h1 class="label">Home</p></center><br>
 				<h1 align="center">A Minecraft Bedrock Minigames Server!</h1>
+<<<<<<< HEAD
 				<a href="/news.php#session-v4"><img class="imageheader" height="360px" width="730px" src="assets/Active-Session.png" alt="Latest Session."></a><br><br>
 				<center><a id="btn" href="minecraft://?addExternalServer=PrideMC%20Network|play.mcpridebedrocktk:19132"><button class="join-button"><b>Join and Play Now!</b></button></a></center><br>
+=======
+				<a href="/news.php#session-v5"><img class="imageheader" height="360px" width="730px" src="assets/Active-Season.png" alt="Latest Session."></a><br><br>
+        <center><a id="btn" href="minecraft://?addExternalServer=PrideMC%20Network|play.mcpridebedrocktk:19132"><button class="join-button"><b>Join and Play Now!</b></button></a></center><br>
+>>>>>>> ab1d9ff (Initial commit)
 				<h1 align="center">Add this server on your minecraft:</h1>
 				<a href="#btn"><img class="image" height="420px" width="730px" src="assets/How-to-add-server.png" alt="How to add the server."></a><br>
 				<h1 align="center">Checkout our <a href="news.php" class="lnk" style="color: lime;"><span style="color: #00ff00;">latest updates</span></a> for more info!</h1>
