@@ -15,7 +15,7 @@
 				font-size: 25px;
 			}
 			.modern-ui {
-				background-color: #222222;
+				background-color: #222222
 				color: #fff;
 				height: 15580px;
 				width: 740px;
@@ -108,6 +108,12 @@
 				<a href="index.php" class="link">Home</a> <span class="linkh">News</span> <a href="u.php?rdr=https://discord.gg/kpAdXNCmRR" class="link">Discord</a> <a href="https://minetrack.mcpridebedrock.tk" class="link">Minetrack</a>
 			</div><br>
 			<div class="modern-ui" id="whats-new">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+				<center><h1 class="label">News</p></center><br>
+=======
+>>>>>>> ef7cec0db9da57d18c58009368ba9e4f048677b4
 				<center><h1 class="label">News</p></center><br>
           <h1 class="title" id="session-v5">Season v5 <span class="mini">(January 31, 2023)</span></h1>
 				<p style="font-size: 20px;">
@@ -124,6 +130,10 @@
 				<img class="image" height="340px" width="730px" src="assets/Session-v5-pt3.png"><br><br>
           <img class="image" height="340px" width="730px" src="assets/Session-v5-pt4.png"><br><br>
 				<hr><br>
+<<<<<<< HEAD
+=======
+>>>>>>> ab1d9ff (Initial commit)
+>>>>>>> ef7cec0db9da57d18c58009368ba9e4f048677b4
 				<h1 class="title" id="session-v4">Season v4 <span class="mini">(September 9, 2022)</span></h1>
 				<p style="font-size: 20px;">
 				     <i>Session v4 has arrive!</i> 
