@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" type="image/png" href="assets/server-logo.png">
 		<title>Error ─ PrideMC Network</title>
-        <style>
+        <style> 
             html {
 				color: #fff;
 				background-color: #424242;
